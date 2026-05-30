@@ -1,4 +1,4 @@
-# 🟢 INCONNU BOY TECH — VCF Contact Hub
+# 🟢 DEV SANZU WORKER— VCF Contact Hub
 
 ---
 
@@ -194,4 +194,4 @@ Ce format est reconnu nativement par :
 
 ---
 
-*Built with ❤️ by **INCONNU BOY TECH*** — [GitHub](https://github.com/INCONNU-BOY) · [WhatsApp Channel](https://whatsapp.com/channel/0029VbC6It7K0IBkQwaKYd2J)
+*Fait par  **Dev Sanzu Worker*** — [GitHub](https://github.com/empire-worker) · [WhatsApp Channel](https://whatsapp.com/channel/0029VbBZXhfHbFV280zYmW2k)
