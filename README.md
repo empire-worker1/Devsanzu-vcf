@@ -1,8 +1,5 @@
 # 🟢 INCONNU BOY TECH — VCF Contact Hub
 
-> Système d'inscription de contacts WhatsApp avec téléchargement VCF groupé.  
-> **Download verrouillé jusqu'à 500 contacts** — liste cachée pour la sécurité des utilisateurs.
-
 ---
 
 ## 📁 Structure du projet
